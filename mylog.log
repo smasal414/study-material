@@ -1,0 +1,115 @@
+2022-04-20 10:56:46.153  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Starting SpringBootGlobalExceptionHandelerApplication using Java 17.0.2 on INPUN0120NB with PID 6640 (C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler\target\classes started by 11724 in C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler)
+2022-04-20 10:56:46.157  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-20 10:56:46.254  INFO 6640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-20 10:56:46.254  INFO 6640 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-20 10:56:47.518  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20 10:56:47.631  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 90 ms. Found 3 JPA repository interfaces.
+2022-04-20 10:56:48.575  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-20 10:56:48.598  INFO 6640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-20 10:56:48.598  INFO 6640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-04-20 10:56:48.752  INFO 6640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-20 10:56:48.752  INFO 6640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2496 ms
+2022-04-20 10:56:49.171  INFO 6640 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20 10:56:49.340  INFO 6640 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.5.Final
+2022-04-20 10:56:49.681  INFO 6640 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-04-20 10:56:49.913  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-04-20 10:56:50.463  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-04-20 10:56:50.509  INFO 6640 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-04-20 10:56:52.552  INFO 6640 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20 10:56:52.561  INFO 6640 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 10:56:53.064  WARN 6640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20 10:56:53.534  INFO 6640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-20 10:56:53.640  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-20 10:56:53.648  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Started SpringBootGlobalExceptionHandelerApplication in 8.14 seconds (JVM running for 9.433)
+2022-04-20 10:57:38.674  INFO 6640 --- [Thread-5] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 10:57:38.677  INFO 6640 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-04-20 10:57:38.684  INFO 6640 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-04-20 10:57:38.751  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Starting SpringBootGlobalExceptionHandelerApplication using Java 17.0.2 on INPUN0120NB with PID 6640 (C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler\target\classes started by 11724 in C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler)
+2022-04-20 10:57:38.752  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-20 10:57:38.916  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20 10:57:38.933  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16 ms. Found 3 JPA repository interfaces.
+2022-04-20 10:57:38.999  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-20 10:57:38.999  INFO 6640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-20 10:57:39.000  INFO 6640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-04-20 10:57:39.019  INFO 6640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-20 10:57:39.019  INFO 6640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 265 ms
+2022-04-20 10:57:39.052  INFO 6640 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20 10:57:39.057  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-04-20 10:57:39.075  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-04-20 10:57:39.076  INFO 6640 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-04-20 10:57:39.264  INFO 6640 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20 10:57:39.265  INFO 6640 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 10:57:39.360  WARN 6640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20 10:57:39.431  INFO 6640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-20 10:57:39.440  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-20 10:57:39.445  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Started SpringBootGlobalExceptionHandelerApplication in 0.724 seconds (JVM running for 55.229)
+2022-04-20 10:57:39.447  INFO 6640 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-20 11:34:11.533  INFO 6640 --- [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 11:34:11.534  INFO 6640 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-04-20 11:34:11.538  INFO 6640 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-04-20 11:34:11.608  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Starting SpringBootGlobalExceptionHandelerApplication using Java 17.0.2 on INPUN0120NB with PID 6640 (C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler\target\classes started by 11724 in C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler)
+2022-04-20 11:34:11.609  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-20 11:34:11.894  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20 11:34:11.915  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 3 JPA repository interfaces.
+2022-04-20 11:34:12.044  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-20 11:34:12.044  INFO 6640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-20 11:34:12.044  INFO 6640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-04-20 11:34:12.073  INFO 6640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-20 11:34:12.074  INFO 6640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 462 ms
+2022-04-20 11:34:12.122  INFO 6640 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20 11:34:12.131  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-04-20 11:34:12.151  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-04-20 11:34:12.152  INFO 6640 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-04-20 11:34:12.384  INFO 6640 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20 11:34:12.384  INFO 6640 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 11:34:12.539  WARN 6640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20 11:34:12.676  INFO 6640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-20 11:34:12.688  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-20 11:34:12.692  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Started SpringBootGlobalExceptionHandelerApplication in 1.117 seconds (JVM running for 2248.477)
+2022-04-20 11:34:12.694  INFO 6640 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-20 11:55:47.347  INFO 6640 --- [Thread-11] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 11:55:47.348  INFO 6640 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2022-04-20 11:55:47.351  INFO 6640 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2022-04-20 11:55:47.423  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Starting SpringBootGlobalExceptionHandelerApplication using Java 17.0.2 on INPUN0120NB with PID 6640 (C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler\target\classes started by 11724 in C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler)
+2022-04-20 11:55:47.424  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-20 11:55:47.588  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20 11:55:47.604  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 3 JPA repository interfaces.
+2022-04-20 11:55:47.674  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-20 11:55:47.675  INFO 6640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-20 11:55:47.675  INFO 6640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-04-20 11:55:47.693  INFO 6640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-20 11:55:47.693  INFO 6640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 267 ms
+2022-04-20 11:55:47.727  INFO 6640 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20 11:55:47.732  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Starting...
+2022-04-20 11:55:47.747  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Start completed.
+2022-04-20 11:55:47.748  INFO 6640 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-04-20 11:55:47.950  INFO 6640 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20 11:55:47.951  INFO 6640 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 11:55:48.043  WARN 6640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20 11:55:48.116  INFO 6640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-20 11:55:48.124  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-20 11:55:48.127  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Started SpringBootGlobalExceptionHandelerApplication in 0.734 seconds (JVM running for 3543.912)
+2022-04-20 11:55:48.128  INFO 6640 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-04-20 12:03:16.001  INFO 6640 --- [Thread-15] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 12:03:16.007  INFO 6640 --- [Thread-15] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown initiated...
+2022-04-20 12:03:16.010  INFO 6640 --- [Thread-15] com.zaxxer.hikari.HikariDataSource       : HikariPool-4 - Shutdown completed.
+2022-04-20 12:03:16.073  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Starting SpringBootGlobalExceptionHandelerApplication using Java 17.0.2 on INPUN0120NB with PID 6640 (C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler\target\classes started by 11724 in C:\Users\11724\Documents\global exception\SpringBoot-JPA-Lombok-slf4jLogger-GlobalExceptionHandeling\SpringBoot-GlobalExceptionHandeler)
+2022-04-20 12:03:16.074  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : No active profile set, falling back to 1 default profile: "default"
+2022-04-20 12:03:16.231  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-04-20 12:03:16.246  INFO 6640 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 3 JPA repository interfaces.
+2022-04-20 12:03:16.311  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-20 12:03:16.311  INFO 6640 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-20 12:03:16.311  INFO 6640 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-04-20 12:03:16.328  INFO 6640 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-20 12:03:16.328  INFO 6640 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 253 ms
+2022-04-20 12:03:16.354  INFO 6640 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-04-20 12:03:16.359  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Starting...
+2022-04-20 12:03:16.374  INFO 6640 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Start completed.
+2022-04-20 12:03:16.375  INFO 6640 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-04-20 12:03:16.550  INFO 6640 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-04-20 12:03:16.550  INFO 6640 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-04-20 12:03:16.667  WARN 6640 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-04-20 12:03:16.745  INFO 6640 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-20 12:03:16.759  INFO 6640 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-20 12:03:16.763  INFO 6640 --- [restartedMain] ngBootGlobalExceptionHandelerApplication : Started SpringBootGlobalExceptionHandelerApplication in 0.713 seconds (JVM running for 3992.547)
+2022-04-20 12:03:16.765  INFO 6640 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
